@@ -17,3 +17,19 @@ Arabic Language and Literature, BA
 3. _Jagiellonian University_
 National Security, MA
 2021-2023
+
+4. _The RSSchool_
+JavaScript/Front-end Course
+2022
+
+### Professional Experience
+/ examples of study projects /
+
+### Languages
+* Belarusian - native
+* Russian - native
+* Polish - C2
+* English - C2
+* Arabic - B2
+* Italian - A2
+* Hebrew - A2
